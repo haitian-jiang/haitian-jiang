@@ -10,7 +10,7 @@ Exchange student (2021 fall) at [Computer Science and Engineering](https://cse.u
 
 <!-- <img src="https://komarev.com/ghpvc/?username=hiltonjiang&style=flat&color=268f77" alt=""/> -->
 
-| <a href="https://github.com/hiltonjiang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hiltonjiang&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Haitian (Hilton) Jiang's Github Stats" /></a> | <a href="https://github.com/hiltonjiang"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiltonjiang&layout=compact&theme=default&hide_border=true" /></a> |
+| <a href="https://github.com/hiltonjiang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hiltonjiang&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Haitian (Hilton) Jiang's Github Stats" /></a> | <a href="https://github.com/hiltonjiang"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiltonjiang&layout=compact&theme=default&hide_border=true?hide=JavaScript,HTML,CSS,SCSS" /></a> |
 | ------------- | ------------- |
 
 ### 🛠️ Languages and Tools
