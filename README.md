@@ -2,10 +2,10 @@
 
 B.S. student, at [Data Science](https://sds.fudan.edu.cn/) @ [Fudan University](https://www.fudan.edu.cn/).
 
-Exchange student (2021 fall) at Computer Science and Engineering @ Univ. of California, San Diego.
+Exchange student (2021 fall) at [Computer Science and Engineering](https://cse.ucsd.edu/) @ [Univ. of California, San Diego](https://ucsd.edu/).
 
 - 🔬 I’m interested in machine learning systems and learning on graphs.
-- 📫 Mail
+- 📫 Mail to me: hiltonjiang@gmail.com
 
 
 <!-- <img src="https://komarev.com/ghpvc/?username=hiltonjiang&style=flat&color=268f77" alt=""/> -->
@@ -84,6 +84,5 @@ Exchange student (2021 fall) at Computer Science and Engineering @ Univ. of Cali
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 --->
