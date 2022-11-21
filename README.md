@@ -3,13 +3,13 @@
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=hiltonjiang)]()
 
-<div>
-  <img width=420 src="https://readme-stats-iyoahs.vercel.app/api?username=hiltonjiang&theme=gotham&count_private=true&show_icons=true&hide_border=false&hide_title=true&border_radius=10" alt="GitHub Stats" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=xxx)
 
-<div>
-  <img width=320 src="https://readme-stats-iyoahs.vercel.app/api/top-langs/?username=hiltonjiang&theme=gotham&count_private&exclude_repo=Tequila-Sunrise.github.io&langs_count=10&hide=css&layout=compact&hide_border=false&hide_title=true&border_radius=10" alt="Top Langs" />
-</div>
+
+作者: holic-x
+链接: https://blog.holic-x.com/wv-blog/post/7ad96a5d.html#GitHub-Readme-Stats
+来源: 一人の境
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 <!---
 - 🌱 I’m currently learning ...
