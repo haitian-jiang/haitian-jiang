@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @hiltonjiang
 - 👀 I’m interested in graph learning and machine learning system
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=hiltonjiang)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hiltonjiang)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=hiltonjiang) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hiltonjiang&layout=compact)
 
 
 <!---
