@@ -1,5 +1,14 @@
 - 👋 Hi, I’m @hiltonjiang
 - 👀 I’m interested in graph learning and machine learning system
+
+<div align="center">
+  <img width=420 src="https://readme-stats-iyoahs.vercel.app/api?username=hiltonjiang&theme=gotham&count_private=true&show_icons=true&hide_border=false&hide_title=true&border_radius=10" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img width=320 src="https://readme-stats-iyoahs.vercel.app/api/top-langs/?username=hiltonjiang&theme=gotham&count_private&exclude_repo=Tequila-Sunrise.github.io&langs_count=10&hide=css&layout=compact&hide_border=false&hide_title=true&border_radius=10" alt="Top Langs" />
+</div>
+
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
