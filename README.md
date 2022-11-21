@@ -21,10 +21,10 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
   </a>
-  <a>
+  <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/aayushchugh/vscode-material-icon-theme/main/icons/cuda.svg" alt="cuda" width="30" height="30"/>
   </a>
-  <a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/>
   </a>
 <!--   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -33,13 +33,13 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="30" height="30"/>
   </a>
-  <a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="30" height="30"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
   </a>
-  <a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -48,13 +48,13 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
   </a>
-  <a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
   </a>
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="conda" width="30" height="30"/>
   </a>
-  <a>
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="30" height="30"/>
   </a>
 
