@@ -32,7 +32,7 @@ Exchange student (2021 fall) at [Computer Science and Engineering](https://cse.u
     <img src="https://raw.githubusercontent.com/aayushchugh/vscode-material-icon-theme/main/icons/cuda.svg" alt="cuda" width="30" height="30"/>
   </a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="30" height="30"/>
   </a>
 <!--   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="30" height="30"/>
