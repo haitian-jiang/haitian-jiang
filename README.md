@@ -1,8 +1,12 @@
 # 👋 Hi, I’m Hilton.
 
-B.S. student, at [Data Science](https://sds.fudan.edu.cn/) @ [Fudan University](https://www.fudan.edu.cn/).
+<!-- B.S. student, at [Data Science](https://sds.fudan.edu.cn/) @ [Fudan University](https://www.fudan.edu.cn/).
 
-Exchange student (2021 fall) at [Computer Science and Engineering](https://cse.ucsd.edu/) @ [Univ. of California, San Diego](https://ucsd.edu/).
+Exchange student (2021 fall) at [Computer Science and Engineering](https://cse.ucsd.edu/) @ [Univ. of California, San Diego](https://ucsd.edu/). -->
+
+B.S. student, at Data Science @ Fudan University.
+
+Exchange student (2021 fall) at Computer Science and Engineering @ Univ. of California, San Diego.
 
 **Read my paper on scalable GNN training named** ***FreshGNN: Training GNN Models via Faithfully Refreshed Embeddings from a Selective History*** [here](https://hiltonjiang.github.io/pdf/FreshGNN.pdf)!
 
