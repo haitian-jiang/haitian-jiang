@@ -11,7 +11,7 @@ Exchange student (2021 fall) at Computer Science and Engineering @ Univ. of Cali
 **Read my paper on scalable GNN training named** ***FreshGNN: Training GNN Models via Faithfully Refreshed Embeddings from a Selective History*** [here](https://hiltonjiang.github.io/pdf/FreshGNN.pdf)!
 
 - 🔬 I’m interested in machine learning systems and learning on graphs.
-- 📫 Mail to me: hiltonjiang@gmail.com
+- 📫 Mail to me: hiltonjiang [at] gmail [dot] com
 
 
 <!-- <img src="https://komarev.com/ghpvc/?username=hiltonjiang&style=flat&color=268f77" alt=""/> -->
