@@ -8,7 +8,7 @@ B.S. student, at Data Science @ Fudan University.
 
 Exchange student (2021 fall) at Computer Science and Engineering @ Univ. of California, San Diego.
 
-### **Read my paper on scalable GNN training named** ***FreshGNN: Training GNN Models via Faithfully Refreshed Embeddings from a Selective History*** [here](https://hiltonjiang.github.io/pdf/FreshGNN.pdf)!
+### **Read my paper on scalable GNN training named** ***Reducing Memory Access via Stable Historical Embeddings for Graph Neural Network Training*** [here](https://hiltonjiang.github.io/pdf/FreshGNN.pdf)!
 
 - 🔬 I’m interested in machine learning systems and learning on graphs.
 - 📫 Mail to me: hiltonjiang [at] gmail [dot] com
