@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hilton.
+# 👋 Hi, I’m Haitian (Hilton) Jiang.
 
 <!-- B.S. student, at [Data Science](https://sds.fudan.edu.cn/) @ [Fudan University](https://www.fudan.edu.cn/).
 
